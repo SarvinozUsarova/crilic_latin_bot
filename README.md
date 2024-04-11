@@ -1,0 +1,1 @@
+# crilic_latin_bot
